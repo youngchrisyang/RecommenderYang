@@ -1,0 +1,17 @@
+Package: recommenderyang
+Title: Recommndations stuff
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Antonio", "Moreira", email = "antonio.moreira@ucp.pt", role = c("aut", "cre")),
+    person("Baojiang", "Yang", email = "baojiany@andrew.cmu.edu", role ="aut"))
+Description: Recommendations using several well known algorithms.
+Depends: R (>= 3.0.2), recommenderlab, data.table, biclust
+License: What license is it under?
+LazyData: true
+Suggests: igraph
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-03-04 14:37:17 UTC; assm
+Author: Antonio Moreira [aut, cre],
+  Baojiang Yang [aut]
+Maintainer: Antonio Moreira <antonio.moreira@ucp.pt>
